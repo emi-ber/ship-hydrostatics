@@ -1,0 +1,20 @@
+Quantity                              Python     DELFTship   Diff %
+-------------------------------------------------------------------
+Draft T [m]                            6.500
+Volume [m3]                         4479.271      4457.071    0.50%
+Volume (section areas) [m3]         4479.253
+Displacement [t]                    4591.253      4568.498    0.50%
+LCB [m]                               36.237        36.216    0.06%
+KB [m]                                 3.611         3.628   -0.48%
+Waterplane area [m2]                 867.498       867.630   -0.02%
+LCF [m]                               32.903        32.907   -0.01%
+I transverse [m4]                  10400.985     10403.948   -0.03%
+I longitudinal [m4]               357405.851    357509.050   -0.03%
+BM transverse [m]                      2.322
+KM transverse [m]                      5.933         5.962   -0.49%
+KM longitudinal [m]                   83.402        83.840   -0.52%
+Midship area [m2]                     84.059        83.930    0.15%
+Cb                                     0.686         0.682    0.50%
+Cm                                     0.999         0.998    0.16%
+Cp                                     0.686         0.684    0.35%
+Cwp                                    0.863         0.863   -0.02%
